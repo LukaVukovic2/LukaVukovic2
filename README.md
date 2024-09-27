@@ -3,7 +3,7 @@
 <h1 align="center">Hello, I'm Luka!</h1>
 
 <p align="center"">
-  <a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3001AF&width=435&lines=Web+Developer;Frontend+Developer;JavaScript+Developer;Angular+Developer&center=true&vCenter=true" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3001AF&width=435&lines=Web+Developer;Frontend+Developer;JavaScript+Developer;React+Developer&center=true&vCenter=true" alt="Typing SVG" />
   </a>
 </p>
 
@@ -32,17 +32,7 @@
     </td>
     <td align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=angular" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=firebase" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=bootstrap" />
+        <img src="https://skillicons.dev/icons?i=react" />
       </a>
     </td>
     <td align="center">
@@ -52,12 +42,7 @@
     </td>
     <td align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mysql" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=figma" />
+        <img src="https://skillicons.dev/icons?i=firebase" />
       </a>
     </td>
     <td align="center">
@@ -71,12 +56,9 @@
     <td align="center">JavaScript</td>
     <td align="center">TypeScript</td>
     <td align="center">CSS</td>
-    <td align="center">Angular</td>
-    <td align="center">Firebase</td>
-    <td align="center">Bootstrap</td>      
+    <td align="center">React</td>
     <td align="center">Next.js</td>
-    <td align="center">MySQL</td>
-    <td align="center">Figma</td>
+    <td align="center">Firebase</td>
     <td align="center">Git</td>
   </tr>
 </table>
